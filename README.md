@@ -1,2 +1,2 @@
 # OAuth-Authentication-
-O Authentication for LinkedIn 
+OAuth Authentication for LinkedIn 
